@@ -5,6 +5,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/my_page_web/', // Asegúrate de que coincida con el nombre de tu repositorio
   plugins: [
     tailwindcss(),
     react()
@@ -13,5 +14,9 @@ export default defineConfig({
     alias: {
       '@': path.resolve(__dirname, './src')
     }
+  },
+  build: {
+    outDir: 'dist',
+    sourcemap: true
   }
 })
