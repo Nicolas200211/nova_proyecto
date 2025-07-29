@@ -81,7 +81,7 @@ export const portfolioData: PortfolioData = {
     email: "nico_e123@outlook.com",
     phone: "+51 919 733 906",
     website: "https://67fd2a3c09dbc5d7a533f6b8--effulgent-daffodil-56ea38.netlify.app/",
-    avatar: "/src/assets/photo.jpg",
+    avatar: "/nova_proyecto/assets/photo.jpg",
     social: {
       linkedin: "https://www.linkedin.com/in/mariano-nicolas-reymundez-retamozo-15b57a265/",
       github: "https://github.com/Nicolas200211",
