@@ -55,7 +55,7 @@ export default function Navigation() {
           >
             <div className="relative">
               <img 
-                src="/src/assets/logonova2.png" 
+                src="/nova_proyecto/assets/logonova2.png" 
                 alt="Logo" 
                 className="h-23 w-auto transition-all duration-500 group-hover:drop-shadow-[0_0_15px_rgba(199,152,263,0.6)]"
               />
