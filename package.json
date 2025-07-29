@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://niconavarrete.github.io/my_page_web",
+  "homepage": "https://Nicolas200211.github.io/nova_proyecto",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

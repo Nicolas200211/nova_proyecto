@@ -5,7 +5,7 @@ import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/my_page_web/',
+  base: '/nova_proyecto/',
   plugins: [
     tailwindcss(),
     react()
